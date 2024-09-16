@@ -1,5 +1,5 @@
 .home-background-container {
-    background-image: url("src/assets/hello.png");
+    background-image: url("../assets/hello.png");
     justify-content: center;
     width: 100%;
     height: 100vh;
@@ -51,6 +51,7 @@
   border: 2px solid black;
   margin-top: 5px;
   padding: 6px 12px;
+  color: black;
 }
 
 

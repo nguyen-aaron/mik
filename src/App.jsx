@@ -11,7 +11,7 @@ import Unlocked from './components/Unlocked';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/mik'>
         <Routes>
             <Route path="/" element={ <Home/> } />
             <Route path="/name" element={ <Name/> } />
